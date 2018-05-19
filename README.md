@@ -15,5 +15,5 @@ Steps i did:
 P.S
 I have added background color of light gray for visual hierarchy.
 
-- Cities - ---WORKING ON IT--- 
+- Cities - Show the cities branches of our restaurant. I practiced my new skill set, I learned how to align small icons with some text and how to style generic links.  
 
