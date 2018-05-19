@@ -12,6 +12,8 @@ Steps i did:
 - Favorite meals section - Here comes the boom. Let the surfers visualize the menu so good so it can almost be tasted. In this section i grouped 4 pictures in separate 'ul' with the 'figure' element for each 'li'. CSS wise, i used the element 'transform' with the 'scale' attribute, the 'opacity' element and then the 'transition' element for both.
 
 - How it works - So after we tempted out potantial costumers, we need to show them how things work and how they can enjoy our services. Here i learned about 'first child', 'last child' and 'last of type' selectors. I used again the grid.css system but for two in this case.
+P.S
+I have added background color of light gray for visual hierarchy.
 
 - Cities - ---WORKING ON IT--- 
 
