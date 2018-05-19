@@ -1,7 +1,7 @@
 # Omnifood-Study-Project
 Website of allegedly a well known restaurant with many branches and a quick delivery mobile app.
 
-this project is written with only HTML & CSS.
+### this project is written only with HTML & CSS.
 
 Steps i did:
 
