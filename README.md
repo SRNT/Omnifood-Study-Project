@@ -19,5 +19,5 @@ I have added background color of light gray for visual hierarchy.
 
 - Testimonials - Very important section, to improve our credibility. I learned how to make a parallax background images with the 'background-attachment: fixed;' property and how to design beautifull customers testimonials. And ofcurse with alot of good practice of the basics.
 
-- Sign-up/Pricing - ---Coming soon---
+- Sign-up/Pricing - Our customer need to make a decision (smart one) so we are giving him the details he need for that. I practiced some of the "old" tricks and learned some new one, such as `box shadow` and `border radius`. 
 
