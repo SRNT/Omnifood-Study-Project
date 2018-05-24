@@ -21,3 +21,6 @@ I have added background color of light gray for visual hierarchy.
 
 - Sign-up/Pricing - Our customer need to make a decision (smart one) so we are giving him the details he need for that. I practiced some of the "old" tricks and learned some new one, such as `box shadow` and `border radius`. 
 
+- Form - We need to hear from our customers so we created the 'form' section. Here i learned how to make a solid form in HTML and how to "CSS" it with more selectors options like "input[type=checkbox] {}".
+
+- Footer -  
