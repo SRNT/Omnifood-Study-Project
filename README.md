@@ -26,3 +26,5 @@ I have added background color of light gray for visual hierarchy.
 - Footer -  Ofcurse we need to markup the finel part of our website with some memos. I did this section in a darker gray color for good seperation hierarchy. I make a color on hover effect for each social icon.
 
 ## I finish with the CSS & HTML lactures and now I'll start making this website responsive with media queries and some optimizing while I learn new stuff. 
+
+I'm learning some git workflow!
